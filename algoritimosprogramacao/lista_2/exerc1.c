@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main1(){
 
     int hp = 100;
     int *ptr_hp = &hp;
